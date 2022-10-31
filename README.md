@@ -13,7 +13,7 @@ Add the desired [dictionary definition](https://cspell.org/docs/dictionaries/#di
     "path": "https://github.com/coduar/coduar-dictionaries/raw/master/allowed.txt",
     "description": "Allowed Coduar Dictionary"
   },
-    {
+  {
     "name": "coduar_forbidden",
     "path": "https://github.com/coduar/coduar-dictionaries/raw/master/forbidden.txt",
     "description": "Forbidden Coduar Dictionary"
