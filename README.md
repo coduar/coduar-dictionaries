@@ -9,9 +9,14 @@ Add the desired [dictionary definition](https://cspell.org/docs/dictionaries/#di
 ```json
 "dictionaryDefinitions": [
   {
+    "name": "coduar_allowed",
+    "path": "https://github.com/coduar/coduar-dictionaries/raw/master/allowed.txt",
+    "description": "Allowed Coduar Dictionary"
+  },
+    {
     "name": "coduar_forbidden",
-    "path": "https://raw.githubusercontent.com/verygoodopensource/very_good_dictionaries/main/forbidden.txt",
-    "description": "Custom Coduar Dictionary"
+    "path": "https://github.com/coduar/coduar-dictionaries/raw/master/forbidden.txt",
+    "description": "Forbidden Coduar Dictionary"
   }
 ]
 ```
