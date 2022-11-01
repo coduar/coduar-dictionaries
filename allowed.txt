@@ -13,13 +13,3 @@ pubspec
 quickstart
 roadmap
 todos
-localizable
-prawo
-Contador
-Texto
-mostrado
-página
-contador
-Coduar
-riverpod
-Riverpod
